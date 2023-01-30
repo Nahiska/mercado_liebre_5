@@ -32,6 +32,9 @@
     margin-bottom: 1.5rem;
 }
 
+.form__input--container--birth label {
+    font-size: 0.8rem;
+}
 .form__container h3 {
     margin: 1rem 0;
 }
