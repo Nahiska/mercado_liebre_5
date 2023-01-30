@@ -7,7 +7,7 @@ Previews del desafío finalizado
 
 REGISTER:
 
-![register](https://user-images.githubusercontent.com/118026671/215376348-d4076d9f-a335-4054-b4d4-ef1f07d9387d.svg)
+![register](https://user-images.githubusercontent.com/118026671/215377503-426cdc19-25de-4da2-a405-65551a75e271.svg)
 
 LOGIN:
 
